@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+}
+div{
+    
+margin-left: 25%;
+width: 50%;
+}
+.posterimage{
+    width: 100%;
+    border: 5px solid white;
+    margin-top : 50px;
+    align-items: center;
+}
+.poster{
+    text-align: center;
+    color: white;
+    
+}
